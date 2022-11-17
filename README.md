@@ -11,6 +11,9 @@ A webapge that contain muitlple choices questions; these questions are about Jav
 The following image demonstrates the web application's appearance and functionality
 Assets/screenshots/screenshot-1.png
 
-# Deploy Links:
 
-Github Link: 
+# Deploy Links:
+https://konnyph.github.io/JavaScript-Timed-Quiz/
+
+Github Link: https://github.com/konnyph/JavaScript-Timed-Quiz.git
+
